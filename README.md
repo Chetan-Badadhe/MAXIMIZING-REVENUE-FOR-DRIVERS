@@ -39,6 +39,10 @@ For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip record
 
 <img width="754" height="361" alt="fare" src="https://github.com/user-attachments/assets/a67dc1cd-cf81-4d22-b5ad-fcec13e43cda" />
 
+<img width="426" height="394" alt="image" src="https://github.com/user-attachments/assets/780905d7-2281-40f5-9a75-f9f6573ae16e" />
+
+
+
 
 
 
