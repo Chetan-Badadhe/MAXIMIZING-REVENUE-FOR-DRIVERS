@@ -17,3 +17,11 @@ Our goal is to use data-driven insights to maximise revenue streams for taxi dri
 **Data Overview:**
 
 For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip records, used data cleaning and feature engineering procedures to concentrate solely on the relevant columns essential for our investigation.
+
+**Relevant columns used for this reseach:**
+1.passenger_count (1 to 5)
+2.payment_type (card or cash)
+3.fare_amount
+4. trip_distance (miles)
+5. duration (minutes)
+
