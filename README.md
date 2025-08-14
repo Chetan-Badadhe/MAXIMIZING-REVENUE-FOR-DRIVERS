@@ -48,6 +48,19 @@ For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip record
 
 <img width="471" height="473" alt="pie" src="https://github.com/user-attachments/assets/2b437792-91d6-4b9d-88d6-f62e7d977e39" />
 
+**Passenger Count Analysis**
+
+1. Among card payments, rides with a single passenger (passenger_count = 1) comprise the largest proportion, constituting 40.08% of all card transactions.
+2. Similarly, cash payments are predominantly associated with single-passenger rides, making up 20.04% of all cash transactions.
+3. There is a noticeable decrease in the percentage of transactions as the passenger count increases, suggesting that larger groups are less likely to use taxis or may opt for alternative payment methods.
+4. These insights emphasize the importance of considering both payment method and passenger count when analyzing transaction data, as they provide valuable insights into customer behavior and preferences.
+
+<img width="1285" height="391" alt="tt" src="https://github.com/user-attachments/assets/15f9f888-15b3-4f6d-9a8d-278ded0e2861" />
+
+
+
+
+
 
 
 
