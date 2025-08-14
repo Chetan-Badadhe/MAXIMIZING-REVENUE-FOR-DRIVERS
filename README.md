@@ -70,6 +70,12 @@ Quantile-quantile (QQ) plots can be used to assess whether the fare amount distr
 
 <img width="632" height="391" alt="qq" src="https://github.com/user-attachments/assets/1cf14f50-8498-47bb-963b-e31d193510b5" />
 
+The data values clearly do not follow the red 45-degree line, which is an indication that they do not follow a normal distribution. So, z distribution will not be good for this. That's why we will use T test.
+
+Given that the T-test can be applied to both small and large samples and does not require the population standard deviation, it is a more universally applicable approach for hypothesis testing in many practical research scenarios, including analyses of taxi trip data.
+
+In the analysis of NYC Yellow Taxi Trip Records, where you're likely dealing with an unknown population standard deviation and potentially large datasets, the T-test offers a more appropriate and flexible method for comparing means between two groups (e.g., fare amounts by payment type). It provides a reliable way to infer about the population, accommodating the uncertainty that comes with estimating population parameters from sample data.
+
 
 
 **Null hypothesis**: There is no difference in average fare between customers who use credit cards and customers who use cash.
