@@ -41,6 +41,11 @@ For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip record
 
 <img width="426" height="394" alt="image" src="https://github.com/user-attachments/assets/780905d7-2281-40f5-9a75-f9f6573ae16e" />
 
+**Preference of Payment Types**
+
+1. The proportion of customers paying with cards is significantly higher than those paying with cash, with card payments accounting for 67.5% of all transactions compared to cash payments at 32.5%.
+2. This indicates a strong preference among customers for using card payments over cash, potentially due to convenience, security, or incentives offered for card transactions.
+
 
 
 
