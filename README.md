@@ -32,6 +32,16 @@ For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip record
 
 <img width="1008" height="430" alt="methodology" src="https://github.com/user-attachments/assets/d034002e-b1dd-40bf-b816-c1e800cf924e" />
 
+**Journey Insights**
+
+1. Customers paying with cards tend to have a slightly higher average trip distance and fare amount compared to those paying with cash.
+2. Indicates that customers prefers to pay more with cards when they have high fare amount and long trip distance.
+
+<img width="754" height="361" alt="fare" src="https://github.com/user-attachments/assets/a67dc1cd-cf81-4d22-b5ad-fcec13e43cda" />
+
+
+
+
 
 
 
