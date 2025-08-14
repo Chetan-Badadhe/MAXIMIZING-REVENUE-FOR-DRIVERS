@@ -64,6 +64,10 @@ To facilitate this examination, we have employed a visualization technique known
 
 ****Hypothesis Testing:****
 
+In order to select the most suitable test for our scenario, our initial step involves evaluating whether the distribution of fare amounts adheres to a normal distribution. While the histogram depicted above suggests otherwise, we will further confirm this by generating a QQ plot.
+
+Quantile-quantile (QQ) plots can be used to assess whether the fare amount distributions for each payment type are approximately normally distributed. If the data points closely align with the diagonal line in the plot, it suggests that the data follows a normal distribution.
+
 **Null hypothesis**: There is no difference in average fare between customers who use credit cards and customers who use cash.
 
 **Alternative hypothesis:** There is a difference in average fare between customers who use credit cards and customers who use cash
