@@ -58,11 +58,14 @@ For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip record
 
 <img width="1285" height="391" alt="tt" src="https://github.com/user-attachments/assets/15f9f888-15b3-4f6d-9a8d-278ded0e2861" />
 
-#**Hypothesis Testing**
+**Hypothesis Testing**
 
 **Null hypothesis**: There is no difference in average fare between customers who use credit cards and customers who use cash.
 
 **Alternative hypothesis:** There is a difference in average fare between customers who use credit cards and customers who use cash
+
+**With a T-statistic of 165.5 and a P-value of less than 0.05, we reject the null hypothesis, suggesting that there is indeed a significant difference in average fare between the two payment methods.**
+
 
 
 
