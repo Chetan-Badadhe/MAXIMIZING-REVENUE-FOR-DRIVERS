@@ -68,6 +68,10 @@ In order to select the most suitable test for our scenario, our initial step inv
 
 Quantile-quantile (QQ) plots can be used to assess whether the fare amount distributions for each payment type are approximately normally distributed. If the data points closely align with the diagonal line in the plot, it suggests that the data follows a normal distribution.
 
+<img width="632" height="391" alt="qq" src="https://github.com/user-attachments/assets/1cf14f50-8498-47bb-963b-e31d193510b5" />
+
+
+
 **Null hypothesis**: There is no difference in average fare between customers who use credit cards and customers who use cash.
 
 **Alternative hypothesis:** There is a difference in average fare between customers who use credit cards and customers who use cash
