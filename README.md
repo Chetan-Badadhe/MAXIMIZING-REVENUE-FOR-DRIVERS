@@ -48,6 +48,10 @@ For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip record
 
 <img width="471" height="473" alt="pie" src="https://github.com/user-attachments/assets/2b437792-91d6-4b9d-88d6-f62e7d977e39" />
 
+Subsequently, we aim to conduct an analysis of the payment types in relation to the passenger count. Our objective is to investigate if there are any changes in preference contingent upon the number of passengers traveling in the cab.
+
+To facilitate this examination, we have employed a visualization technique known as a stacked bar plot. This method is particularly advantageous for comparing the percentage distribution of each passenger count based on the payment method selected. Through this graphical representation, we can gain insights into potential variations in payment preferences across different passenger counts.
+
 
 **Passenger Count Analysis**
 
