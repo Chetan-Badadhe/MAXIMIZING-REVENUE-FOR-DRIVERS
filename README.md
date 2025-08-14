@@ -26,3 +26,6 @@ For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip record
 4. trip_distance (miles)
 5. duration (minutes)
 
+<img width="644" height="239" alt="hp" src="https://github.com/user-attachments/assets/8c0017e5-1862-4d22-82ec-96218d8f19f5" />
+
+
